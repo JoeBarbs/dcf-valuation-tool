@@ -1,4 +1,5 @@
 # Corporate Valuation Application – DCF Tool
+This project builds an interactive Discounted Cash Flow (DCF) valuation tool using Python and Streamlit. The application allows users to input a stock ticker and key valuation assumptions such as revenue growth, WACC, and terminal growth. The model calculates projected free cash flows, discounts them to present value, and includes a sensitivity analysis to evaluate valuation under different assumptions.
 
 ## Project Overview
 This application estimates intrinsic value using a Discounted Cash Flow (DCF) model.
@@ -26,3 +27,4 @@ streamlit run app.py
 ## AI Usage Disclosure
 AI tools (ChatGPT) were used to assist with code structure, debugging, and interface formatting.
 All financial logic and valuation assumptions were independently reviewed and validated.
+
